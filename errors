@@ -1,0 +1,3 @@
+# warning: ‘index_kmp’ declared ‘static’ but never defined [-Wunused-function]
+  The warning tell us that we have write the declaration of static function at header file which should be declared at the  
+  source file.
